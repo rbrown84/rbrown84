@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Randall!
 - 👀 I’m interested in back end development and data analysis.
 - 🌱 I’m currently learning .NET and c#.
+- ✨ Contributed python scripting to https://github.com/paulojraposo/DGGSPointViewer
 - 📫 You can reach me at ranbrown8448@gmail.com
 
 <!---
